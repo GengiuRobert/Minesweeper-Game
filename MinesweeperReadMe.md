@@ -25,3 +25,6 @@ The cells in the matrix that are the '!' character, are the marked ones
 
 At the top, in main, there is a standard matrix that I used to work on, but if you want, you can create your own matrix
 
+Also, you can hide that matrix if you want
+
+------------------------------------------------------------------------------------
