@@ -1,5 +1,5 @@
 # Minesweeper-Game
-Personal Remake of the Game Minesweeper - C language
+Personal Remake of the Game Minesweeper - C language, console application
 
 
 ---------------------------------------------------------------------------------------
