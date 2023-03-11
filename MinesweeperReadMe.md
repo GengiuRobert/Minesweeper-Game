@@ -25,6 +25,8 @@ The cells in the matrix that are the '!' character, are the marked ones
 
 At the top, in main, there is a standard matrix that I used to work on, but if you want, you can create your own matrix
 
-Also, you can hide that matrix if you want
+Also, you can hide that matrix if you want by commenting the line 19 in main, you are gonna see a function called print, with 3 parametrs
+
+The function looks like this     //print(h,w,t);
 
 ------------------------------------------------------------------------------------
